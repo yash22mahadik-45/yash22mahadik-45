@@ -4,7 +4,7 @@
  
 *Data Analyst · Curious Generalist · Lifelong Learner*
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yashnpmahadik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashnpmahadik/)
  
 </div>
 
@@ -55,7 +55,7 @@ A seven-dashboard Tableau story comparing 114 student safety perceptions with VT
  
 I write to refine my thinking and share what I learn about the rapidly evolving AI landscape. If something here resonates — or if you're working on something at the intersection of data, AI, and real-world decision-making — I'd love to hear from you.
  
-📬 [youremail@email.com](mailto:youremail@email.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+💼 [LinkedIn](https://www.linkedin.com/in/yashnpmahadik/)
  
 ---
  
