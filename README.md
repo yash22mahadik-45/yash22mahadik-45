@@ -24,7 +24,7 @@ Substack keeps me curious. Music keeps me grounded. First principles keep me hon
 
 ## 🎓 Education
 
-**Virginia Tech** — M.S. Business Administration (Global Business Analytics) · *Expected May 2026*  
+**Virginia Tech** — M.S. Business Administration (Global Business Analytics) · *May 2026*  
 **Virginia Tech** — B.S. Business Information Technology · *May 2025*
 
 ---
