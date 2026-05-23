@@ -11,28 +11,30 @@
  
 ## About Me
  
-I'm a data analyst with an MSBA background, drawn to problems that don't fit neatly into one discipline — where analytics, technology, organizational behavior, and human decision-making all meet.
+I'm a data analyst with an MSBA background, drawn to problems that sit at the intersection of analytics, technology, and human decision-making. I care less about flashy results and more about mechanisms — what drives outcomes, why those drivers persist, and how to measure them responsibly.
  
-I believe the most interesting questions live at intersections. My work reflects that: I've built predictive models for agricultural resilience, designed a campus safety analytics dashboard that compares student perceptions with real crime records, and I'm currently exploring how portfolio theory, game theory, and behavioral finance interact in today's technical and managerial landscape.
+My current focus is on AI adoption and value creation, especially the distinction between substantive and promotional value creation over the long run. I'm drawn to questions like: What changes behavior? What changes cost structures? What actually compounds?
  
-At heart, I'm working toward being a polymath — not an expert in everything, but someone who moves fluidly across domains and finds the connective tissue between them.
+I'm drawn to problems that require both depth and range — building rigorous technical skills while staying curious about the broader systems those skills operate in. Right now that means going deeper into Python and machine learning, while also exploring how finance, game theory, and organizational behavior shape real-world decisions.
  
 ---
  
 ## 🛠 What I Work With
  
+<div align="center">
 | Analytics & BI | Programming | Visualization |
 |:-:|:-:|:-:|
 | JMP | Python | Tableau |
 | Excel | SQL | Tableau Prep |
  
+</div>
 ---
  
 ## 🔭 What I'm Exploring
  
+- **AI adoption & value creation** — what separates substantive from promotional value creation over the long run
 - **Behavioral finance** — portfolio theory, stock valuation, and capital markets
 - **Game theory** — strategic decision-making in competitive and cooperative systems
-- **AI & organizations** — how artificial intelligence reshapes how institutions and people make decisions
 - **The connective tissue** — how technical, managerial, and financial systems are more intertwined than they appear
 ---
  
@@ -48,7 +50,7 @@ A seven-dashboard Tableau story comparing 114 student safety perceptions with VT
  
 ## 💬 Let's Connect
  
-If something here resonates — or if you're working on something at the intersection of data, AI, and real-world decision-making — I'd love to hear from you.
+I write to refine my thinking and share what I learn about the rapidly evolving AI landscape. If something here resonates — or if you're working on something at the intersection of data, AI, and real-world decision-making — I'd love to hear from you.
  
 📬 [youremail@email.com](mailto:youremail@email.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
  
