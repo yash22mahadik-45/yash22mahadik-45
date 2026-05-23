@@ -13,11 +13,13 @@
 ## About Me
  
 
-I'm a data analyst with an MSBA background who genuinely enjoys the kind of problems that don't fit neatly into one box — where analytics, technology, and human behavior all have something to say.
+Most people treat data like it has all the answers. I treat it like it has better questions.
  
-I care less about flashy results and more about mechanisms: what drives outcomes, why those drivers persist, and how to measure them responsibly. My current focus is on AI adoption and value creation — particularly what separates substantive, lasting impact from noise. The questions I keep coming back to are simple but hard: What actually changes behavior? What changes cost structures? What compounds?
+That instinct was sharpened by a simple challenge thrown at me when I was stuck: forget what you think you know, what's actually true? First principles thinking. It rewired how I approach everything, not just analytics, but how I read situations, challenge assumptions, and decide what's worth building in the first place.
  
-I believe good work requires both depth and range. So alongside going deeper into Python and machine learning, I'm exploring how finance, game theory, and organizational behavior shape the decisions that matter — and how those systems are more connected than they might first appear.
+It's also why AI genuinely fascinates me, not the hype, but the tension underneath it. What does human judgment still get right that machines don't? What separates AI that creates lasting value from AI that just creates the appearance of it? These are the questions that show up in my work, whether I'm building predictive models, designing analytics dashboards, or exploring how finance, game theory, and organizational behavior connect in ways that aren't always obvious.
+ 
+Substack keeps me curious. Music keeps me grounded. First principles keep me honest.
  
 ---
  
