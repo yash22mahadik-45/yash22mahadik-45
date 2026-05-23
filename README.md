@@ -61,13 +61,13 @@ as I hope they did from me.
 ---
  
 ## 📂 Featured Projects
- 
-### 🌾 [Agricultural Resilience Modeling](https://github.com/yash22mahadik-45/Agricultural-Resilience-Modeling)
-Predictive analytics and machine learning to assess crop adaptation needs under environmental and economic stressors. Covers EDA, PCA, clustering, and four classification models — with a neural network achieving a validation AUC of 0.939.
- 
+
 ### 🏫 [Virginia Tech Campus Safety Analytics](https://github.com/yash22mahadik-45/Virginia-Tech-Campus-Safety-Analytics)
 A seven-dashboard Tableau story comparing 114 student safety perceptions with VTPD crime records spanning 2022–2026. Includes a Python preprocessing pipeline (geocoding, offense normalization, API integration) and five evidence-backed recommendations for campus stakeholders.
- 
+
+### 🌾 [Agricultural Resilience Modeling](https://github.com/yash22mahadik-45/Agricultural-Resilience-Modeling)
+Predictive analytics and machine learning to assess crop adaptation needs under environmental and economic stressors. Covers EDA, PCA, clustering, and four classification models — with a neural network achieving a validation AUC of 0.939.
+
 ---
  
 ## 💬 Let's Connect
