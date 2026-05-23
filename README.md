@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yashnpmahadik)
  
 </div>
+
 ---
  
 ## About Me
@@ -22,12 +23,14 @@ I'm drawn to problems that require both depth and range — building rigorous te
 ## 🛠 What I Work With
  
 <div align="center">
+ 
 | Analytics & BI | Programming | Visualization |
 |:-:|:-:|:-:|
 | JMP | Python | Tableau |
 | Excel | SQL | Tableau Prep |
  
 </div>
+
 ---
  
 ## 🔭 What I'm Exploring
