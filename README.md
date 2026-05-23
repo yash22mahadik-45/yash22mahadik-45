@@ -22,15 +22,18 @@ Substack keeps me curious. Music keeps me grounded. First principles keep me hon
 
 ---
 
-## 🎓 Education & Experience
+## 🎓 Education
 
-**M.S. Business Administration (Global Business Analytics)** · Virginia Tech · 2026  
-**B.S. Business Information Technology** · Virginia Tech · 2025 · *First Honors Graduate*  
-Both with a 4.0 GPA — yes, both. No, I don't know how to relax.
+**Virginia Tech** — M.S. Business Administration (Global Business Analytics) · *Expected May 2026*  
+**Virginia Tech** — B.S. Business Information Technology · *May 2025*
 
-Previously a **Teaching Assistant** @ Pamplin College of Business — supported courses
-in Advanced Business Analytics, Business Intelligence, and Strategic Management.
-Basically: I helped students ask better questions of their data (and survive deadlines).
+---
+
+## 💼 Experience
+
+Previously a **Teaching Assistant** @ Pamplin College of Business — supported Advanced Business
+Analytics, Business Intelligence, and Strategic Management. Learned just as much from the students
+as I hope they did from me.
 
 ---
  
